@@ -1,0 +1,76 @@
+Bonnes pratiques
+
+intro :
+  * Cette formation :
+    - bonnes pratiques non appliquées
+    - antipatterns courants
+  * pourquoi les bonnes pratiques ?
+  * Faciliter le travail communautaire
+  * Faciliter le travail tout court
+  * Faciliter l'émergence de la qualité
+  * Qu'est-ce que la qualité ?
+
+Globales :
+  * Use your fucking brain !
+  * Du bon sens
+  * De la cohérence
+  * Les bonnes pratiques font partie intégrante du cycle de dev
+  * Le code devient naturellement bordélique. Sa complexité doit être maintenue sous contrôle
+  * Reconnaitre un comportement à risque
+  * Tout le monde dehors à 18h
+
+Formatage du code :
+  * Respecter les conventions de codage
+  * Configurer son éditeur
+  * Ne pas laisser de code mort
+  * Ne pas laissez de code commenté
+
+Les commentaires :
+  * Rôles des commentaires :
+    - favoriser le scannage rapide
+    - Expliquer un choix technique
+    - Expliciter une portion de code difficile à comprendre
+    - Créer de la doc (doctags)
+
+  * Et non pas
+    - Mettre du code de côté
+    - Indiquer des todos (mal)
+    - Écrire des romans
+    - Exprimer son désarroi (même si c'est tentant)
+    - Faire de l'asciiart
+    - Délimiter le code en sections
+
+Découper son code :
+  * Écrire des fonctions. Si + de 10-15 lignes, fonction
+  * Une fonction fait une chose et une seule
+  * Écrire des classes.
+  * Une classe gère un type d'objet et un seul
+  * Respecter le modèle object
+    - classe != namespace
+    - Un type d'objet = une classe
+    - XxxTools -> pas glop !
+    - Beaucoup de fonctions statiques -> pas glop !
+  * MVC, c'est pas pour les chiens
+
+Bien coder :
+  * On pense avant d'écrire
+  * Écrire devrait être du boulot de secrétariat
+  * Connaitre les designs-patterns les plus courant, ça peut être bien
+  * Ne pas utiliser les patterns à tort et à travers
+  * On ne laisse pas d'erreurs dans le code
+
+Le gestionnaire de source :
+  * Git est mieux que svn
+  * Les commits sont atomiques par rapport aux fonctionnalités
+  * Le trunk est toujours propre
+  * Pour les grosses fonctionnalités, on utilise les branches
+  * Bien évidemment, on spécifie toujours le message de commit
+  * Ne pas mettre son nom dans le message de commit
+
+Les tests :
+  * First : on écrit les tests
+  * On fait foirer les tests
+  * On écrit le code
+  * On refactorise
+  * L'injection de dépendance
+

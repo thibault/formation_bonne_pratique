@@ -1,0 +1,7 @@
+{
+  "name": "Bonnes pratiques de développement",
+  "description": "Ou comment devenir un dieu du code",
+  "sections": [
+    {"section":"01_intro"}
+  ]
+}
