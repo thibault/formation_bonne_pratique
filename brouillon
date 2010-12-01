@@ -2,6 +2,8 @@ Bonnes pratiques
 
 intro :
   * Cette formation :
+    - Catalogue de bonnes pratiques
+    - On ne revient pas sur ce que tout le monde connait
     - bonnes pratiques non appliquées
     - antipatterns courants
   * pourquoi les bonnes pratiques ?
@@ -10,20 +12,30 @@ intro :
   * Faciliter l'émergence de la qualité
   * Qu'est-ce que la qualité ?
 
-Globales :
+Conseils d'ordre global :
   * Use your fucking brain !
   * Du bon sens
   * De la cohérence
   * Les bonnes pratiques font partie intégrante du cycle de dev
+  * Tout le monde dehors à 18h
+  * Utiliser les bons outils au bon moment
+    - Utiliser les bons outils tout court
+
+Réduire la complexité :
+  * La tâche principale d'un dev est de maintenir la complexité du code au niveau minimal
   * Le code devient naturellement bordélique. Sa complexité doit être maintenue sous contrôle
   * Reconnaitre un comportement à risque
-  * Tout le monde dehors à 18h
+  * Comment faire
+    - Découper son code
 
 Formatage du code :
   * Respecter les conventions de codage
+    - nommage des variables, classes, functions, etc.
+    - nommage des tables
   * Configurer son éditeur
   * Ne pas laisser de code mort
   * Ne pas laissez de code commenté
+  * Pas d'alignement vertical en milieu de lignes
 
 Les commentaires :
   * Rôles des commentaires :
@@ -50,6 +62,7 @@ Découper son code :
     - Un type d'objet = une classe
     - XxxTools -> pas glop !
     - Beaucoup de fonctions statiques -> pas glop !
+    - protected, private, en fait, c'est mal
   * MVC, c'est pas pour les chiens
 
 Bien coder :
