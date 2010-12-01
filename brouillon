@@ -20,6 +20,12 @@ Conseils d'ordre global :
   * Tout le monde dehors à 18h
   * Utiliser les bons outils au bon moment
     - Utiliser les bons outils tout court
+  * On pense avant d'écrire
+  * Écrire devrait être du boulot de secrétariat
+  * Connaitre les designs-patterns les plus courant, ça peut être bien
+  * Ne pas utiliser les patterns à tort et à travers
+  * On ne laisse pas d'erreurs dans le code
+  * On code en anglais
 
 Réduire la complexité :
   * La tâche principale d'un dev est de maintenir la complexité du code au niveau minimal
@@ -27,6 +33,7 @@ Réduire la complexité :
   * Reconnaitre un comportement à risque
   * Comment faire
     - Découper son code
+    - Écrire le moins possible
 
 Formatage du code :
   * Respecter les conventions de codage
@@ -65,12 +72,10 @@ Découper son code :
     - protected, private, en fait, c'est mal
   * MVC, c'est pas pour les chiens
 
-Bien coder :
-  * On pense avant d'écrire
-  * Écrire devrait être du boulot de secrétariat
-  * Connaitre les designs-patterns les plus courant, ça peut être bien
-  * Ne pas utiliser les patterns à tort et à travers
-  * On ne laisse pas d'erreurs dans le code
+La gestion des exceptions :
+  * Exceptions ou pas ?
+  * Définir une DMZ
+  * Les exceptions sont faites pour être catchées
 
 Le gestionnaire de source :
   * Git est mieux que svn
