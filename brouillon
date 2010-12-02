@@ -25,7 +25,6 @@ Conseils d'ordre global :
   * Connaitre les designs-patterns les plus courant, ça peut être bien
   * Ne pas utiliser les patterns à tort et à travers
   * On ne laisse pas d'erreurs dans le code
-  * On code en anglais
 
 Réduire la complexité :
   * La tâche principale d'un dev est de maintenir la complexité du code au niveau minimal
@@ -34,6 +33,10 @@ Réduire la complexité :
   * Comment faire
     - Découper son code
     - Écrire le moins possible
+  * Écrire le moins possible
+    - KISS
+    - DRY
+    - YAGNI
 
 Formatage du code :
   * Respecter les conventions de codage
@@ -43,6 +46,7 @@ Formatage du code :
   * Ne pas laisser de code mort
   * Ne pas laissez de code commenté
   * Pas d'alignement vertical en milieu de lignes
+  * On code en anglais
 
 Les commentaires :
   * Rôles des commentaires :
