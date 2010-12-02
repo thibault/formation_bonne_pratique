@@ -17,7 +17,6 @@ Conseils d'ordre global :
   * Du bon sens
   * De la cohérence
   * Les bonnes pratiques font partie intégrante du cycle de dev
-  * Tout le monde dehors à 18h
   * Utiliser les bons outils au bon moment
     - Utiliser les bons outils tout court
   * On pense avant d'écrire
@@ -25,6 +24,11 @@ Conseils d'ordre global :
   * Connaitre les designs-patterns les plus courant, ça peut être bien
   * Ne pas utiliser les patterns à tort et à travers
   * On ne laisse pas d'erreurs dans le code
+
+Organisation du temps de travail :
+  * Connaitre son cycle de travail
+  * Tout le monde dehors à 18h
+  * Pomodoro
 
 Réduire la complexité :
   * La tâche principale d'un dev est de maintenir la complexité du code au niveau minimal

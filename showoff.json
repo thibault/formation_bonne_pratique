@@ -2,6 +2,11 @@
   "name": "Bonnes pratiques de développement",
   "description": "Ou comment devenir un dieu du code",
   "sections": [
-    {"section":"010_intro"}
+    {"section":"010_intro"},
+    {"section":"020_generalites"},
+    {"section":"030_environnement_travail"},
+    {"section":"040_redaction_code"},
+    {"section":"050_redaction_code"},
+    {"section":"060_redaction_code"}
   ]
 }
