@@ -67,6 +67,10 @@ Les commentaires :
     - Faire de l'asciiart
     - Délimiter le code en sections
 
+  * Gardez les commentaires cohérents avec le code
+    30 ); // @as 2008-11-25 - Increase the timeout from 0 to 10 to prevent problems with connection
+
+
 Découper son code :
   * Écrire des fonctions. Si + de 10-15 lignes, fonction
   * Une fonction fait une chose et une seule
