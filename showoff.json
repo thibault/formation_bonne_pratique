@@ -6,6 +6,7 @@
     {"section":"020_generalites"},
     {"section":"030_environnement_travail"},
     {"section":"040_redaction_code"},
-    {"section":"050_gestionnaire_source"}
+    {"section":"050_gestionnaire_source"},
+    {"section":"060_gestion_projet"}
   ]
 }
