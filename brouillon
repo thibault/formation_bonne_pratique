@@ -42,6 +42,8 @@ Réduire la complexité :
     - DRY
     - YAGNI
 
+  * Viser le plus simple
+
 Formatage du code :
   * Respecter les conventions de codage
     - nommage des variables, classes, functions, etc.
